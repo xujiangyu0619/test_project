@@ -10,6 +10,7 @@ reg     [7:0]   cnt;
 reg     [7:0]   cnt1;
 reg     [7:0]   cnt2;
 
+// start
 always @( posedge clk )
 begin
     if ( !rst_n )
