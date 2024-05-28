@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/git_svn/clone/test_project/src
+vtop
+!s110 1716860087
+!i10b 1
+!s100 9mEz2Z@_HL>o9<YWaXX<@0
+I]bnWC7Un[f8^:R4CmP:MF0
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1716860087
+8C:\Users\db0903\AppData\Local\Temp\VJBE1AB.tmp\top.v
+FC:\Users\db0903\AppData\Local\Temp\VJBE1AB.tmp\top.v
+L0 1
+OL;L;10.6e;65
+r1
+!s85 0
+31
+!s108 1716860087.000000
+!s107 C:\Users\db0903\AppData\Local\Temp\VJBE1AB.tmp\top.v|
+!s90 -quiet|-lint|C:\Users\db0903\AppData\Local\Temp\VJBE1AB.tmp\top.v|
+!i113 1
+o-quiet -lint -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0
