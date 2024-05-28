@@ -7,5 +7,6 @@ module clk_gen
     output led
 );
 
+reg     [7:0]   cnt;
     
 endmodule
